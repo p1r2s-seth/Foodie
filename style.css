@@ -435,7 +435,10 @@ body{
 	}
 
 			.im{
-		display: none;
+		margin-top: 5%;
+		margin-left: 25%;
+		max-width: 40%;
+		margin-bottom: 0px;
 	}
 
 	.cab{
@@ -507,7 +510,10 @@ body{
 	}
 
 			.im{
-		display: none;
+		margin-top: 5%;
+		margin-left: 25%;
+		max-width: 40%;
+		margin-bottom: 0px;
 	}
 
 	.cab{
